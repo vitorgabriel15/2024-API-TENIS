@@ -1,0 +1,45 @@
+{
+    "brands": [
+      {
+        "name": "SpeedX",
+        "popularity": 80
+      },
+      {
+        "name": "UrbanStep",
+        "popularity": 75
+      },
+      {
+        "name": "Flexo",
+        "popularity": 65
+      },
+      {
+        "name": "JumpForce",
+        "popularity": 70
+      },
+      {
+        "name": "StrideTech",
+        "popularity": 60
+      },
+      {
+        "name": "ActiveWave",
+        "popularity": 85
+      },
+      {
+        "name": "StreetMotion",
+        "popularity": 90
+      },
+      {
+        "name": "ZoomVibe",
+        "popularity": 50
+      },
+      {
+        "name": "NeoKicks",
+        "popularity": 78
+      },
+      {
+        "name": "PulseFeet",
+        "popularity": 72
+      }
+    ]
+  }
+  
