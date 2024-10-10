@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Martelo",
+        "votos": 2500
+    },
+    {
+        "nome": "Chave de fenda",
+        "votos": 2200
+    },
+    {
+        "nome": "Alicate",
+        "votos": 1800
+    },
+    {
+        "nome": "Serra",
+        "votos": 1500
+    },
+    {
+        "nome": "Furadeira",
+        "votos": 3000
+    },
+    {
+        "nome": "Chave inglesa",
+        "votos": 1600
+    },
+    {
+        "nome": "Nível",
+        "votos": 1400
+    },
+    {
+        "nome": "Estilete",
+        "votos": 1300
+    },
+    {
+        "nome": "Esmerilhadeira",
+        "votos": 1100
+    },
+    {
+        "nome": "Aparador de grama",
+        "votos": 900
+    }
+]
