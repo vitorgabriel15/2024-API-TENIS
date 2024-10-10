@@ -1,0 +1,54 @@
+{
+    "ferramentas": [
+        {
+            "nome": "Furadeira",
+            "votos": 250000,
+            "comentario": "A furadeira é essencial para perfurar materiais com eficiência."
+        },
+        {
+            "nome": "Serra circular",
+            "votos": 200000,
+            "comentario": "A serra circular é ideal para cortes rápidos e precisos em madeira."
+        },
+        {
+            "nome": "Chave de fenda",
+            "votos": 150000,
+            "comentario": "A chave de fenda é uma ferramenta básica para apertar e afrouxar parafusos."
+        },
+        {
+            "nome": "Alicate",
+            "votos": 120000,
+            "comentario": "O alicate é versátil e útil para agarrar e cortar diversos materiais."
+        },
+        {
+            "nome": "Martelo",
+            "votos": 100000,
+            "comentario": "O martelo é fundamental em qualquer caixa de ferramentas, perfeito para bater pregos."
+        },
+        {
+            "nome": "Nível a laser",
+            "votos": 90000,
+            "comentario": "O nível a laser garante que seus projetos estejam perfeitamente alinhados."
+        },
+        {
+            "nome": "Esmerilhadeira",
+            "votos": 80000,
+            "comentario": "A esmerilhadeira é poderosa para cortar e polir diversos materiais."
+        },
+        {
+            "nome": "Serra de fita",
+            "votos": 70000,
+            "comentario": "A serra de fita é ideal para cortes curvos e precisos."
+        },
+        {
+            "nome": "Serra tico-tico",
+            "votos": 60000,
+            "comentario": "A serra tico-tico é leve e perfeita para cortes detalhados."
+        },
+        {
+            "nome": "Chave inglesa",
+            "votos": 50000,
+            "comentario": "A chave inglesa é ajustável, facilitando o trabalho com diferentes tamanhos de porcas."
+        }
+    ]
+}
