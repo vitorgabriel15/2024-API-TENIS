@@ -1,0 +1,14 @@
+{
+    "ferramentas": [
+        { "nome": "Furadeira", "votos": 250000 },
+        { "nome": "Serra circular", "votos": 200000 },
+        { "nome": "Chave de fenda", "votos": 150000 },
+        { "nome": "Alicate", "votos": 120000 },
+        { "nome": "Martelo", "votos": 100000 },
+        { "nome": "Nível a laser", "votos": 90000 },
+        { "nome": "Esmerilhadeira", "votos": 80000 },
+        { "nome": "Serra de fita", "votos": 70000 },
+        { "nome": "Sierra tico-tico", "votos": 60000 },
+        { "nome": "Chave inglesa", "votos": 50000 }
+    ]
+}
